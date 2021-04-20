@@ -48,6 +48,7 @@ public class JXTrayIcon extends TrayIcon {
         dialog = new JDialog((Frame) null, "TrayDialog");
         dialog.setUndecorated(true);
         dialog.setAlwaysOnTop(true);
+        print(a)
     }
     
     private static PopupMenuListener popupListener = new PopupMenuListener() {
