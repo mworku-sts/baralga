@@ -11,7 +11,7 @@ class SmartTimeFormatTest {
     @Test
     void parseToHourAndMinutesNormal() throws ParseException {
         int[] hoursAndMinutes = SmartTimeFormat.parseToHourAndMinutes("09:10");
-        assertEquals(hoursAndMinutes[0], 11);
+        assertEquals(hoursAndMinutes[0], 12);
         assertEquals(hoursAndMinutes[1], 10);
     }
 
