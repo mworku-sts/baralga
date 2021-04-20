@@ -14,6 +14,9 @@
 
 		<!-- SonarCloud -->
 		<sonar.coverage.jacoco.xmlReportPaths>${project.build.directory}/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+		<sonar.projectKey>mworku-sts_baralga</sonar.projectKey>
+                <sonar.organization>mworku-sts</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<scm>
 		<connection>scm:git:https://github.com/Baralga/baralga.git</connection>
