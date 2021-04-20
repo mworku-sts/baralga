@@ -1,6 +1,5 @@
 [![Github Actions Status for Baralga/baralga](https://github.com/baralga/baralga/workflows/Build/badge.svg)](https://github.com/Baralga/baralga/actions) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=baralga&metric=alert_status)](https://sonarcloud.io/dashboard?id=baralga) [![Known Vulnerabilities](https://snyk.io/test/github/baralga/baralga/badge.svg)](https://snyk.io/test/github/baralga/baralga) 
 
-
 Baralga Time Tracker
 ====================
 Baralga is a simple time tracking solution for the desktop.
